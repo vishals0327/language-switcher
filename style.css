@@ -2,11 +2,6 @@ iframe {
     display: none
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
-
 #google_translate_element{
         display: none;
     }
